@@ -1,4 +1,4 @@
-# CPP
+# C++
 C++ projects to practice and learn
 ## Clone repository 
 ```bash
